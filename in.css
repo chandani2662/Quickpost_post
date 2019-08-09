@@ -1,0 +1,33 @@
+.body{
+	font-family: sans-serif;
+}
+.content{
+	height: 100vh;
+}
+.main_content{
+	display: flex;
+	flex-flow:column;
+	justify-content: center;
+	align-items: center;
+	height: 90vh;
+}
+.body_content{
+	background-color: cyan;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    width:400px;
+    height: 400px;
+    border: 15px solid #581845;
+    border-radius: 30px;
+}
+.header h1{
+ font-size: 55px;
+ margin: 25px;
+}
+
+.container{
+	margin: 10px;
+
+}
